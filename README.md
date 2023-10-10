@@ -1,6 +1,6 @@
 # jpa02-sparklyjeff
 
-Repo: https://ucsb-cs156-f23/jpa02-SparklyJeff
+Repo: [https://ucsb-cs156-f23/jpa02-SparklyJeff](https://github.com/ucsb-cs156-f23/jpa02-SparklyJeff)
 
 Deployed at: https://jpa02-sparklyjeff.dokku-06.cs.ucsb.edu
 
